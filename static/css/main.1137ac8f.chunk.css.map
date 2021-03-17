@@ -1,0 +1,1 @@
+{"version":3,"sources":["User.scss"],"names":[],"mappings":"AAAA,WACE,cAAe,CACf,eAAgB,CAFlB,iBAII,YAAa","file":"main.1137ac8f.chunk.css","sourcesContent":[".user-name {\n  font-size: 20px;\n  font-weight: 600;\n  &:hover {\n    color: purple;\n  }\n}\n"]}
